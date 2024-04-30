@@ -1,0 +1,7 @@
+How to run the codebase:
+
+- Open a terminal from command prompt or vscode
+- Copy and paste the following code to clone the repository: git clone https://github.com/ekkanikanti/music-player.git
+- Open the music-player folder you have just cloned
+- Click on the index.html file and it should open on your browser
+- You should now have access to the music player
