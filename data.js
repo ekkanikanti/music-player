@@ -40,5 +40,11 @@ let songs = [
         path: 'music/SadViolin.mp3',
         artist: 'unknown',
         cover: 'images/cover7.jpg'
+    },
+    {
+        name: 'We Dont Talk Anymore',
+        path: 'music/WDTA.mp3',
+        artist: 'Charlie Puth & Selena Gomez',
+        cover: 'images/cover8.jpg'
     }
 ]
