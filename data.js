@@ -22,5 +22,23 @@ let songs = [
         path: 'music/Fireflies.mp3',
         artist: 'Owl City',
         cover: 'images/cover4.jpg'
+    },
+    {
+        name: 'Lost',
+        path: 'music/Lost.mp3',
+        artist: 'EDEN',
+        cover: 'images/cover5.jpg'
+    },
+    {
+        name: 'Flutter',
+        path: 'music/Flutter.mp3',
+        artist: 'Diamond Eyes',
+        cover: 'images/cover6.jpg'
+    },
+    {
+        name: 'Sad Violin',
+        path: 'music/SadViolin.mp3',
+        artist: 'unknown',
+        cover: 'images/cover7.jpg'
     }
 ]
