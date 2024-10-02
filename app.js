@@ -91,3 +91,9 @@ backwardBtn.addEventListener('click', () => {
     setMusic(currentMusic);
     playMusic();
 })
+
+seekBar.addEventListener("store", display);
+function display() {
+    localStorage.setItem('value', seekBar.value);
+    seekBar.innerHTML = localStorage.getItem("value");
+}

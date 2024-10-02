@@ -46,5 +46,41 @@ let songs = [
         path: 'music/WDTA.mp3',
         artist: 'Charlie Puth & Selena Gomez',
         cover: 'images/cover8.jpg'
+    },
+    {
+        name:'Field of Hopes & Dreams',
+        path: 'music/FoH&D.mp3',
+        artist: 'Deltarune',
+        cover: 'images/cover9.jpg'
+    },
+    {
+        name: 'Wildmill Isle',
+        path: 'music/WIndmill_Isle.mp3',
+        artist: 'Sonic Unleashed OST',
+        cover: 'images/cover10.jpg'
+    },
+    {
+        name: 'Be My Enemy',
+        path: 'music/BME.mp3',
+        artist: 'Alec Benjamin',
+        cover: 'images/cover11.jpg'
+    },
+    {
+        name: 'Industry Baby',
+        path: 'music/Industry.mp3',
+        artist: 'Lil Nas X',
+        cover: 'images/cover12.jpg'
+    },
+    {
+        name: 'Glimpse of Us',
+        path: 'music/GoU.mp3',
+        artist: 'Joji, Powfu',
+        cover: 'images/cover13.jpg'
+    },
+    {
+        name: 'Thoughts of You and I',
+        path: 'music/dem.mp3',
+        artist: 'demxntia',
+        cover: 'images/cover14.jpg'
     }
 ]
