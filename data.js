@@ -50,7 +50,7 @@ let songs = [
     {
         name:'Field of Hopes & Dreams',
         path: 'music/FoH&D.mp3',
-        artist: 'Deltarune',
+        artist: 'Toby Fox',
         cover: 'images/cover9.jpg'
     },
     {
@@ -82,5 +82,23 @@ let songs = [
         path: 'music/dem.mp3',
         artist: 'demxntia',
         cover: 'images/cover14.jpg'
+    },
+    {
+        name: 'Enigmatic Encounter',
+        path: 'music/EE.mp3',
+        artist: 'Benjamin Crimson',
+        cover: 'images/cover15.jpg'
+    },
+    {
+        name: 'Aria Math',
+        path: 'music/AriaMath.mp3',
+        artist: 'C418',
+        cover: 'images/cover16.jpg'
+    },
+    {
+        name: 'Chrono Cross - Shore of Dreams (Another World)',
+        path: 'music/CC.mp3',
+        artist: 'Yasunori Mitsuda',
+        cover: 'images/cover17.jpg'
     }
 ]

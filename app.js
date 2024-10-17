@@ -9,6 +9,7 @@ const musicDuration = document.querySelector('.song-duration');
 const playBtn = document.querySelector('.play-btn');
 const forwardBtn = document.querySelector('.forward-btn');
 const backwardBtn = document.querySelector('.backward-btn');
+const shuffleBtn = document.querySelector('.shuffle-btn');
 
 playBtn.addEventListener('click', () => {
     if (playBtn.className.includes('pause')) {
@@ -92,8 +93,17 @@ backwardBtn.addEventListener('click', () => {
     playMusic();
 })
 
-seekBar.addEventListener("store", display);
-function display() {
-    localStorage.setItem('value', seekBar.value);
-    seekBar.innerHTML = localStorage.getItem("value");
+const shuffle = () => {
+    for (let i = songs.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i+1))
+        temp = songs[j]
+        songs[j] = songs[i]
+        songs[i] = temp
+    }
 }
+
+shuffleBtn.addEventListener('click', () => {
+    shuffle();
+    setMusic(currentMusic)
+    playMusic()
+})
