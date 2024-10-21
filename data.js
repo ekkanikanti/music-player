@@ -100,5 +100,23 @@ let songs = [
         path: 'music/CC.mp3',
         artist: 'Yasunori Mitsuda',
         cover: 'images/cover17.jpg'
+    },
+    {
+        name: 'Sakura',
+        path: 'music/Sakura.mp3',
+        artist: 'Vexento',
+        cover: 'images/cover18.jpeg'
+    },
+    {
+        name: 'Lotus',
+        path: 'music/Lotus.mp3',
+        artist: 'Vexento',
+        cover: 'images/cover19.jpeg'
+    },
+    {
+        name: 'Winter',
+        path: 'music/Winter.mp3',
+        artist: 'Antonio Vivaldi',
+        cover: 'images/cover20.jpeg'
     }
 ]
