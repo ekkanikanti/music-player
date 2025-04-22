@@ -66,10 +66,10 @@ let songs = [
         cover: 'images/cover11.jpg'
     },
     {
-        name: 'Industry Baby',
-        path: 'music/Industry.mp3',
-        artist: 'Lil Nas X',
-        cover: 'images/cover12.jpg'
+        name: 'The Rose and the Thorn',
+        path: 'music/R&T.mp3',
+        artist: 'Johannes Bornlof',
+        cover: 'images/cover12.jpeg'
     },
     {
         name: 'Glimpse of Us',
@@ -118,5 +118,89 @@ let songs = [
         path: 'music/Winter.mp3',
         artist: 'Antonio Vivaldi',
         cover: 'images/cover20.jpeg'
+    },
+    {
+        name: 'Haunt Muskie',
+        path: 'music/HM.mp3',
+        artist: 'C418',
+        cover: 'images/cover16.jpeg'
+    },
+    {
+        name: 'Belong to You',
+        path: 'music/BTY.mp3',
+        artist: 'Ealot',
+        cover: 'images/cover21.jpeg'
+    },
+    {
+        name: 'A Nostalgic Dream',
+        path: 'music/AND.mp3',
+        artist: 'Peter Gundry',
+        cover: 'images/cover22.jpg',
+    },
+    {
+        name: 'Creator',
+        path: 'music/Creator.mp3',
+        artist: 'Lena Raine',
+        cover: 'images/cover23.jpg',
+    },
+    {
+        name: 'Luv Letter',
+        path: 'music/LL.mp3',
+        artist: 'DJ Okawari',
+        cover: 'images/cover24.jpg',
+    },
+    {
+        name: 'Flower Dance',
+        path: 'music/FlowerDance.mp3',
+        artist: 'DJ Okawari',
+        cover: 'images/cover24.jpg',
+    },
+    {
+        name: 'Adore You',
+        path: 'music/AdoreYou.mp3',
+        artist: 'Bryant Barnes',
+        cover: 'images/cover25.jpeg',
+    },
+    {
+        name: 'Stellar Wind',
+        path: 'music/UHSW.mp3',
+        artist: 'Unicorn Heads',
+        cover: 'images/cover26.jpg',
+    },
+    {
+        name: 'Parting Worlds',
+        path: 'music/lpw.m4a',
+        artist: 'Luvbird',
+        cover: 'images/cover27.jpg',
+    },
+    {
+        name: 'Scarlet Forest',
+        path: 'music/SF.mp3',
+        artist: 'Toby Fox',
+        cover: 'images/cover28.jpg',
+    },
+    {
+        name: 'Attack of the Killer Queen',
+        path: 'music/KQ.mp3',
+        artist: 'Toby Fox',
+        cover: 'images/cover28.jpg'
+    },
+    {
+        name: 'In love with a ghost',
+        path: 'music/Ghost.mp3',
+        artist: 'flowers',
+        cover: 'images/cover29.jpg'
+    },
+    {
+        name: 'Another Medium',
+        path: 'music/Medium.mp3',
+        artist: 'Toby Fox',
+        cover: 'images/cover28.jpg'
+    },
+    {
+        name: 'CORE',
+        path: 'music/CORE.mp3',
+        artist: 'Toby Fox',
+        cover: 'images/cover28.jpg'
     }
 ]
